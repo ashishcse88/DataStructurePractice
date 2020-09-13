@@ -25,6 +25,7 @@ namespace GraphConcepts
         }
         static void Main(string[] args)
         {
+            /*
             //Console.WriteLine("Hello World!");
             int V = 5;
             LinkedList<int>[] adj = new LinkedList<int>[V];
@@ -43,6 +44,10 @@ namespace GraphConcepts
             addEdge(adj, 2, 3);
 
             PrintGraph(adj);
+            */
+
+            BFS objBFS = new BFS();
+            objBFS.printBFS();
 
         }
     }
