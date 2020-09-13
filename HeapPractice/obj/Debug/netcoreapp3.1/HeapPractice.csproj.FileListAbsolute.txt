@@ -1,0 +1,13 @@
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.exe
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.deps.json
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.runtimeconfig.json
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.runtimeconfig.dev.json
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.dll
+E:\work\CodePractice\HeapPractice\bin\Debug\netcoreapp3.1\HeapPractice.pdb
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.csprojAssemblyReference.cache
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.csproj.CoreCompileInputs.cache
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.AssemblyInfoInputs.cache
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.AssemblyInfo.cs
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.dll
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.pdb
+E:\work\CodePractice\HeapPractice\obj\Debug\netcoreapp3.1\HeapPractice.genruntimeconfig.cache
